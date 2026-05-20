@@ -6,7 +6,7 @@ Uma coleção de soluções criativas e divertidas para cobrar aquele amigo calo
 
 Inspirado no eterno **Seu Barriga** do Chaves, que nunca desistia de cobrar o aluguel. 🏠
 
-<p align="center" width="70%">
+<p align="center" width="40%">
   <img width="766" height="501" alt="image" src="https://github.com/user-attachments/assets/79a2a054-0b1b-4d2a-b9f9-aea5730ced6f" />
 </p>
 ---
