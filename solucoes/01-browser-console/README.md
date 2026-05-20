@@ -88,9 +88,3 @@ const INTERVAL_MS = 24 * 60 * 60 * 1000; // 24 horas
 - **Não feche o console** — isso também encerra o script
 - O WhatsApp Web pode desconectar por inatividade; se isso ocorrer, o script vai retornar erro no próximo ciclo
 - Use intervalos razoáveis (1h+) para não parecer spam
-
----
-
-## Créditos
-
-Solução original por [@guilhermepioo](https://github.com/guilhermepioo)
