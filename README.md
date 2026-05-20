@@ -1,11 +1,11 @@
-# 🐛 Seu Barriga do Zap
+# 🐛 Seu Barriga no Zap
 
 > **"Não paga? O bot cobra."**
 
 Uma coleção de soluções criativas e divertidas para cobrar aquele amigo caloteiro pelo WhatsApp — sem você precisar mandar mensagem manualmente toda hora.
 
 Inspirado no eterno **Seu Barriga** do Chaves, que nunca desistia de cobrar o aluguel. 🏠
-
+https://github.com/guilherme-pio/seu-barriga-no-zap/tree/main#-english
 <p align="center" width="40%">
   <img width="766" height="501" alt="image" src="https://github.com/user-attachments/assets/79a2a054-0b1b-4d2a-b9f9-aea5730ced6f" />
 </p>
@@ -78,7 +78,7 @@ Os autores **não se responsabilizam** por nenhuma consequência decorrente do u
 
 ## 🇺🇸 English
 
-# 🐛 Seu Barriga do Zap
+# 🐛 Seu Barriga no Zap
 
 > **"Won't pay? The bot collects."**
 
